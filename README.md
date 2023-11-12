@@ -3,6 +3,8 @@ Support Bunker-[IP] and show us a bit of love!
 
 ### Insert this code in your web site!
 
+If you are running Bunker-[IP] in your system, help us to keep going, Thanks!
+
 ```
 <div id="bunker-ip">
 	<a href="https://github.com/Bunker-IP" target="_blank">
